@@ -14,12 +14,131 @@ const mainMenuData: IMenu[] = [
   },
   {
     id: "product",
-    name: "상품 관리",
+    name: "과제 관리",
     icon: <Package2 className="w-5 h-5" />,
     submenu: [
       {
         id: "productList",
-        name: "상품 목록",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "RUN 관리",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "DRC 점검",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "설계",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "공정 점검",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "평가 점검",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "데이터 분석",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "게시판",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "공지사항",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+      {
+        id: "productList",
+        name: "표준문서 양식",
+        link: {
+          path: "/sample/product/list",
+        },
+      },
+    ],
+  },
+  {
+    id: "product",
+    name: "설정/관리",
+    icon: <Package2 className="w-5 h-5" />,
+    submenu: [
+      {
+        id: "productList",
+        name: "작성중..",
         link: {
           path: "/sample/product/list",
         },
