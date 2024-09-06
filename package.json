@@ -1,4 +1,5 @@
 {
+  "homepage": "https://restinbeat.github.io/nextjs-dsm",
   "name": "nextjs-admin-template",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +8,8 @@
     "build": "next build",
     "export": "next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@ant-design/cssinjs": "^1.16.1",
