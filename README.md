@@ -14,7 +14,7 @@
 
 ## 데모
 
-https://admin-ui.purple.io/login
+https://nextjs-dsm.vercel.app/
 
 > OAuth(Google/GitHub) 또는 아이디/패스워드(admin/admin)으로 로그인하세요.
 
@@ -22,17 +22,17 @@ https://admin-ui.purple.io/login
 
 `Deploy` 버튼을 클릭하여 소스를 복제하고 [vercel](https://vercel.com)에 배포하여 테스트 할 수 있습니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpurpleio%2Fpurple-admin-ui&project-name=purple-admin-ui&repository-name=purple-admin-ui&demo-title=purple-admin-ui&demo-description=Next.js%20%EA%B8%B0%EB%B0%98%20%EC%96%B4%EB%93%9C%EB%AF%BC%20UI&demo-url=https%3A%2F%2Fadmin-ui.purple.io&demo-image=https%3A%2F%2Fadmin-ui.purple.io%2Fog.png&env=NEXTAUTH_SECRET&envDescription=How%20to%20get%20these%20env%20variables%3A&envLink=https%3A%2F%2Fgithub.com%2Fpurpleio%2Fpurple-admin-ui%2Fblob%2Fmain%2F.env.example)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/restinbeat/nextjs-dsm&project-name=nextjs-dsm&repository-name=nextjs-dsm&demo-title=nextjs-dsm&demo-description=Next.js&demo-url=https://nextjs-dsm.vercel.app/)
 
-소스를 [다운로드](https://github.com/purpleio/purple-admin-ui/archive/refs/heads/main.zip)하거나 다음 명령어를 입력하여 프로젝트를 시작할 수 있습니다.
+소스를 [다운로드](https://github.com/restinbeat/nextjs-dsm/archive/refs/heads/main.zip)하거나 다음 명령어를 입력하여 프로젝트를 시작할 수 있습니다.
 
 ```bash
 # npm
-npx create-next-app --example "https://github.com/purpleio/purple-admin-ui"
+npx create-next-app --example "https://github.com/restinbeat/nextjs-dsm"
 # yarn
-yarn create next-app --example "https://github.com/purpleio/purple-admin-ui"
+yarn create next-app --example "https://github.com/restinbeat/nextjs-dsm"
 # pnpm
-pnpm create next-app --example "https://github.com/purpleio/purple-admin-ui"
+pnpm create next-app --example "https://github.com/restinbeat/nextjs-dsm"
 ```
 
 ### 기본 설정
