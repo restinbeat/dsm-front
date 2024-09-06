@@ -19,7 +19,7 @@ const mainMenuData: IMenu[] = [
     submenu: [
       {
         id: "productList",
-        name: "과제 구성",
+        name: "과제 구성 (sample)",
         link: {
           path: "/sample/product/list",
         },
@@ -28,7 +28,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "과제 현황",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/1",
         },
       },
     ],
@@ -42,14 +42,14 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "RUN 구성",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/2",
         },
       },
       {
         id: "productList",
         name: "RUN 실적",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/3",
         },
       },
     ],
@@ -63,7 +63,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "Design Rule Checker",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/4",
         },
       },
     ],
@@ -77,7 +77,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "설계",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/5",
         },
       },
     ],
@@ -91,7 +91,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "설계치 공정치 비교",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/6",
         },
       },
     ],
@@ -105,7 +105,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "설계치 평가치 비교",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/7",
         },
       },
     ],
@@ -119,7 +119,7 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "연계 데이터 분석",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/8",
         },
       },
     ],
@@ -133,14 +133,14 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "공지사항",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/9",
         },
       },
       {
         id: "productList",
         name: "표준문서 양식",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/10",
         },
       },
     ],
@@ -154,56 +154,56 @@ const mainMenuData: IMenu[] = [
         id: "productList",
         name: "기준정보 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/10",
         },
       },
       {
         id: "productList",
         name: "메뉴 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/11",
         },
       },
       {
         id: "productList",
         name: "항목 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/12",
         },
       },
       {
         id: "productList",
         name: "표준문서 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/13",
         },
       },
       {
         id: "productList",
         name: "공지사항 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/14",
         },
       },
       {
         id: "productList",
         name: "설계표 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/15",
         },
       },
       {
         id: "productList",
         name: "비교항목 관리",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/16",
         },
       },
       {
         id: "productList",
         name: "설계표 이력추적",
         link: {
-          path: "/sample/product/list",
+          path: "/sample/product/17",
         },
       },
     ],
