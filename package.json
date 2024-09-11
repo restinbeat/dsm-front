@@ -1,6 +1,6 @@
 {
-  "homepage": "https://restinbeat.github.io/nextjs-dsm",
-  "name": "nextjs-admin-template",
+  "homepage": "https://restinbeat.github.io/dsm-web",
+  "name": "dsm-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
