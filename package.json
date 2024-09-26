@@ -1,6 +1,6 @@
 {
-  "homepage": "https://restinbeat.github.io/dsm-web",
-  "name": "dsm-web",
+  "homepage": "https://restinbeat.github.io/dsm-front",
+  "name": "dsm-front",
   "version": "0.1.0",
   "private": true,
   "scripts": {

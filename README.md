@@ -14,7 +14,7 @@
 
 ## 데모
 
-https://dsm-web.vercel.app/
+https://dsm-front.vercel.app/
 
 > OAuth(Google/GitHub) 또는 아이디/패스워드(admin/admin)으로 로그인하세요.
 
@@ -22,17 +22,17 @@ https://dsm-web.vercel.app/
 
 `Deploy` 버튼을 클릭하여 소스를 복제하고 [vercel](https://vercel.com)에 배포하여 테스트 할 수 있습니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/restinbeat/dsm-web&project-name=dsm-web&repository-name=dsm-web&demo-title=dsm-web&demo-description=Next.js&demo-url=https://dsm-web.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/restinbeat/dsm-front&project-name=dsm-front&repository-name=dsm-front&demo-title=dsm-front&demo-description=Next.js&demo-url=https://dsm-front.vercel.app/)
 
-소스를 [다운로드](https://github.com/restinbeat/dsm-web/archive/refs/heads/main.zip)하거나 다음 명령어를 입력하여 프로젝트를 시작할 수 있습니다.
+소스를 [다운로드](https://github.com/restinbeat/dsm-front/archive/refs/heads/main.zip)하거나 다음 명령어를 입력하여 프로젝트를 시작할 수 있습니다.
 
 ```bash
 # npm
-npx create-next-app --example "https://github.com/restinbeat/dsm-web"
+npx create-next-app --example "https://github.com/restinbeat/dsm-front"
 # yarn
-yarn create next-app --example "https://github.com/restinbeat/dsm-web"
+yarn create next-app --example "https://github.com/restinbeat/dsm-front"
 # pnpm
-pnpm create next-app --example "https://github.com/restinbeat/dsm-web"
+pnpm create next-app --example "https://github.com/restinbeat/dsm-front"
 ```
 
 ### 기본 설정
